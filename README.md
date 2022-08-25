@@ -37,8 +37,8 @@ I would undoubtedly recommend this internship to everyone who is struggling for 
 
 Use the below links to view my tasks -
 
-Task 1: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%201
-Task 2: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%202
+## Task 1: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%201
+## Task 2: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%202
 Task 3: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%203
 Task 4: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%204
 

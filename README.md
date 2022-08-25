@@ -39,10 +39,10 @@ Use the below links to view my tasks -
 
 ## Task 1: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%201
 ## Task 2: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%202
-Task 3: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%203
-Task 4: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%204
+## Task 3: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%203
+## Task 4: https://github.com/Govind-123/LGMVIP-Web/tree/main/Task%204
 
- Link for VIP : letsgrowmore.in/vip
- Link for LGM : letsgrowmore.in
+### Link for VIP : letsgrowmore.in/vip
+### Link for LGM : letsgrowmore.in
 
-Thank You
+# Thank You
